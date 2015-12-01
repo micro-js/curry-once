@@ -2,7 +2,7 @@
   "name": "@micro-js/curry",
   "description": "Simple curry function.",
   "repository": "git://github.com/micro-js/curry.git",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
