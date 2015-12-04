@@ -2,7 +2,7 @@
   "name": "@micro-js/curry-once",
   "description": "Simple curry function. Just curries once.",
   "repository": "git://github.com/micro-js/curry-once.git",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
