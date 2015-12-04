@@ -1,5 +1,5 @@
 
-# curry
+# curry-once
 
 [![Build status][travis-image]][travis-url]
 [![Git tag][git-image]][git-url]
@@ -10,12 +10,12 @@ Simple curry function.
 
 ## Installation
 
-    $ npm install @micro-js/curry
+    $ npm install @micro-js/curry-once
 
 ## Usage
 
 ```js
-var curry = require('@micro-js/curry')
+var curry = require('@micro-js/curry-once')
 
 var add = curry(function (a, b) {
   return a + b

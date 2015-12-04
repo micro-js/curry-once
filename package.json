@@ -1,7 +1,7 @@
 {
-  "name": "@micro-js/curry",
-  "description": "Simple curry function.",
-  "repository": "git://github.com/micro-js/curry.git",
+  "name": "@micro-js/curry-once",
+  "description": "Simple curry function. Just curries once.",
+  "repository": "git://github.com/micro-js/curry-once.git",
   "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
