@@ -38,11 +38,11 @@ addOne(1) // => 1
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/micro-js/curry.svg?style=flat-square
-[travis-url]: https://travis-ci.org/micro-js/curry
-[git-image]: https://img.shields.io/github/tag/micro-js/curry.svg
-[git-url]: https://github.com/micro-js/curry
+[travis-image]: https://img.shields.io/travis/micro-js/curry-once.svg?style=flat-square
+[travis-url]: https://travis-ci.org/micro-js/curry-once
+[git-image]: https://img.shields.io/github/tag/micro-js/curry-once.svg
+[git-url]: https://github.com/micro-js/curry-once
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/curry.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/curry
+[npm-image]: https://img.shields.io/npm/v/@micro-js/curry-once.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@micro-js/curry-once
