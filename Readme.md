@@ -10,12 +10,12 @@ Simple curry function.
 
 ## Installation
 
-    $ npm install @micro-js/curry-once
+    $ npm install @f/curry-once
 
 ## Usage
 
 ```js
-var curry = require('@micro-js/curry-once')
+var curry = require('@f/curry-once')
 
 var add = curry(function (a, b) {
   return a + b
@@ -44,5 +44,5 @@ MIT
 [git-url]: https://github.com/micro-js/curry-once
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/curry-once.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/curry-once
+[npm-image]: https://img.shields.io/npm/v/@f/curry-once.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/curry-once
