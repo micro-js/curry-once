@@ -10,7 +10,6 @@ var test = require('tape')
  */
 
 test('should curry fn', function (t) {
-
   var add = curry(function (a, b) {
     return a + b
   })

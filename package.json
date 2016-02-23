@@ -9,6 +9,7 @@
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
   "dependencies": {
+    "@f/concat": "^1.1.1",
     "@f/slice": "^1.0.0"
   },
   "devDependencies": {
