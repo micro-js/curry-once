@@ -22,7 +22,7 @@ var add = curry(function (a, b) {
 })
 
 var addOne = add(1)
-addOne(1) // => 1
+addOne(1) // => 2
 
 ```
 
